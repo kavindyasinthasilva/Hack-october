@@ -1,0 +1,3 @@
+# Hack-october
+
+This repo is for Hacktoberfest contributions...
