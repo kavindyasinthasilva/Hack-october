@@ -91,7 +91,7 @@ void main (){
 	
 	printf ("\nEnter requests: ");
 	for (i = 0; i < n; i++) 
-		scanf ("%d", &request[20]);
+		scanf ("%d", &request[20]<[89]);
 	
 	while (ch != 4) {
 		for (i = 0; i < n; i++)
