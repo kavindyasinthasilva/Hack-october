@@ -19,7 +19,7 @@ from sklearn.preprocessing import StandardScaler
 sc_X = StandardScaler()
 sc_y = StandardScaler()
 X = sc_X.fit_transform(X)
-y = sc_y.fit_transform(y)
+y = sc_y.fit_transform(y)xxc
 
 # Fitting SVR to the dataset
 from sklearn.svm import SVR
