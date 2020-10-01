@@ -14,7 +14,7 @@ y = dataset.iloc[:, 2].values
 """from sklearn.cross_validation import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)"""
 
-# Feature Scaling
+# Feature Scalingjoxsjhj
 from sklearn.preprocessing import StandardScaler
 sc_X = StandardScaler()
 sc_y = StandardScaler()
